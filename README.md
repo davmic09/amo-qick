@@ -2,9 +2,9 @@
 The goal of this fork is to add functionality for feedback loops common in AMO systems and extend hardware implementation to atomic specific operations. Basic Implementation of Qick should still work.
 
 ## Things I will be working with:
- ip.py/reader.py - making some extensions but overall should still work with implementation
- test.ipynb - where I will test my implementations however
- d1.hwh/d1.bit - My lazy compilation of new hardware read in test.ipynb
+ ip.py/reader.py - making some extensions but overall should still work with implementation;
+ test.ipynb - where I will test my implementations however;
+ d1.hwh/d1.bit - My lazy compilation of new hardware read in test.ipynb;
 
  ## Overall Working changes:
   Nothing yet :p
