@@ -1,3 +1,5 @@
+# AMO-QICK: An Atomic and Molecular Optics extension of the Quantum Instrumentation Control Kit
+The goal of this fork is to add functionality for feedback loops common in AMO systems and extend hardware implementation to atomic specific operations. Basic Implementation of Qick should still work.
 
 <p align="center">
  <img src="graphics/logoQICK.svg" alt="QICK logo" width=50% height=auto>
